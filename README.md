@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Trujano</h1>
-<h3 align="center">A passionate electrical mechanical engineer from Mexico City, but also front-end & back-end jr. developer.</h3>
+<h3 align="center">A passionate electrical mechanical engineer with area of specialization in use of electrical energy from Mexico City, but also front-end & back-end jr. developer.</h3>
 
 - 🌱 I’m currently learning **Node.js and React**
 
